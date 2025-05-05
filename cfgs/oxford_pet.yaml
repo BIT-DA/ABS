@@ -1,0 +1,32 @@
+model_size: ViT-B/16
+batch_size: 16
+dataset: oxford_pet
+data_path : /data/oxford_pets
+
+alpha: 0.5
+n_samples: 60
+n_run: 10
+patch_n: 60
+
+methods:
+  - clip: 
+      name: clip
+      enabled: True
+  - clip-e:
+      name: clip-e
+      enabled: True
+  - clip-d:
+      name: clip-d
+      enabled: True
+  - waffle:
+      name: waffle
+      enabled: True
+  - cupl:
+      name: cupl
+      enabled: True
+  - ours:
+      name: ours
+      enabled: True
+      image_scale: 4.0
+      text_scale: 2.0
+
