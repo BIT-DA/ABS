@@ -5,6 +5,7 @@
 # From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection
 
 [ICML2025] Official Code of **ABS**
+
 [Lincan Cai](https://scholar.google.com/citations?user=wH-dNbAAAAAJ&hl=zh-CN&oi=ao), Jingxuan Kang, [Shuang Li](https://shuangli.xyz), [Wenxuan Ma](https://scholar.google.com/citations?hl=zh-CN&user=u7aJOt8AAAAJ), [Binhui Xie](https://binhuixie.github.io), [Zhida Qin](https://zhidaqin.github.io/), [Jian Liang](https://scholar.google.com/citations?user=mrunnpoAAAAJ&hl=zh-CN)
 
 <img alt="image" src="framework.png" width="80%" />
